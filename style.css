@@ -1,0 +1,88 @@
+header {
+    background-color:rgb(159, 100, 41);
+    color:black;
+    padding:15px;
+    border-radius: 10px;
+    border-left: 6px dashed rgb(61, 36, 11);
+    border-right: 6px dashed rgb(61, 36, 11);
+}
+
+header a {
+    text-decoration: none;
+    border-radius:25px;
+    padding:5px;
+    margin:25px;
+    color:black;
+    background-color: rgb(176, 98, 68);
+    text-align: center;
+}
+
+body {
+    font-family: system-ui;
+    background-color:peru;
+}
+
+h1 {
+    font-size:50px;
+    text-align: center;
+    background-color:rgb(176, 98, 68);
+    border-radius:20px;
+    padding:1px;
+}
+
+.image {
+    border:7px solid rgb(176, 98, 68);
+    border-radius:10px;
+    width:360px;
+    height:270px;
+}
+
+h2 {
+    background-color:rgb(176, 98, 68);
+    border-radius:20px;
+    padding:10px;
+    text-align: center;
+}
+
+.image2 {
+    width:50px;
+    height:50px;
+}
+
+table {
+    border:3px solid rgb(176, 98, 68);
+    border-radius: 10px;
+}
+
+td {
+    border:3px solid rgb(176, 98, 68);
+    border-radius: 10px;
+}
+
+.bombordilo_crokodilo {
+    background-color:rgb(176, 98, 68);
+    color:rgb(117, 72, 27);
+}
+
+main p {
+    background-color:rgb(176, 98, 68);
+    border-radius:20px;
+    padding:10px;
+}
+
+footer {
+    background-color:rgb(159, 100, 41);
+    border-radius:10px;
+    border-left: 6px dashed rgb(61, 36, 11);
+    border-right: 6px dashed rgb(61, 36, 11);
+}
+
+.lol {
+    background-color:rgb(176, 98, 68);
+    border-radius:20px;
+    text-align: center;
+}
+
+.lolpoop {
+    text-align: center;
+}
